@@ -1,4 +1,4 @@
-domeubairro
+Cuidando do meu Bairro
 ===========
 
-Projeto Cuidando do meu Bairro - www.gpopai.usp.br/cuidando
+www.gpopai.usp.br/cuidando
