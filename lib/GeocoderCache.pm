@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 #Copyright (C) 2012  Fernando Ferreira Diniz de Moraes
 
 #This program is free software; you can redistribute it and/or modify
@@ -15,8 +16,6 @@
 #51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 # Store geocoder results in a local cache (sqlite database)
-
-#!/usr/bin/perl
 
 package GeocoderCache;
 use DBI;

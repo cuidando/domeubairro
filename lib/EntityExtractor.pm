@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 #Copyright (C) 2012  Fernando Ferreira Diniz de Moraes
 
 #This program is free software; you can redistribute it and/or modify
@@ -15,8 +16,6 @@
 #51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 # Extracts entities from a given string.
-
-#!/usr/bin/perl
 
 package EntityExtractor;
 use JSONLoader;
